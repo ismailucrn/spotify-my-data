@@ -1,2 +1,3 @@
-# spotify-my-data
-Spotify Data Analysis and Visualization
+# Spotify Data Analysis and Visualization
+
+Analysing of my personal spotify data
